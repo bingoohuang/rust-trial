@@ -1,0 +1,9 @@
+[package]
+name = "guessing_game"
+version = "0.1.0"
+authors = ["bingoo <bingoo.huang@gmail.com>"]
+description = "The guessing game from the Rust book"
+license = "MIT"
+
+[dependencies]
+rand = "0.6.5"
