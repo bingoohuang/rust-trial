@@ -1,6 +1,6 @@
 # rust-trial
-trial for rust lang
 
+trial for rust lang
 
 ## rust upgrade
 
@@ -16,3 +16,7 @@ trial for rust lang
 1. `rustup component add rustfmt` `cargo fmt`
 1. `rustup component add rustfmt --toolchain nightly` `cargo +nightly fmt`
 1. [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt)
+
+## Resoures
+
+1. [Why Discord is switching from Go to Rust](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
