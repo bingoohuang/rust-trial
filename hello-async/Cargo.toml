@@ -1,0 +1,20 @@
+[package]
+name = "hello-async"
+version = "0.1.0"
+authors = ["bingoo <bingoo.huang@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+futures = "0.3"
+async-std = "1.5.0"
+
+[[bin]]
+name = "hello_async"
+path = "src/hello_async.rs"
+
+[[bin]]
+name = "sing_dance"
+path = "src/sing_dance.rs"
+
